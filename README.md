@@ -8,4 +8,3 @@ Post-script:
 PGP-signing for inclusion in the
 Github Arctic Code Vault,
 Grant David Meadors, PhD
--- INSERT --              
